@@ -17,7 +17,7 @@
 
 ### 👋 Sobre mim
 
-- 💼 **Full Stack Developer** na **Livreria – Magna Opera** (remoto), trabalhando no **ERP** da empresa
+- 💼 **Full Stack Developer** na **Livreria – Magna Opera** (remoto)
 - 🏛️ Antes disso, estagiário full stack na **Prefeitura de São Manoel do Paraná**, onde construí o sistema de registros do cemitério municipal e a plataforma **AVALIE** (.gov.br)
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na UMFG (previsão: 2027)
 - 🤖 Uso fluxos de desenvolvimento **spec-driven assistidos por IA** no dia a dia
