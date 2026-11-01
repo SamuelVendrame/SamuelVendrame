@@ -56,17 +56,6 @@ Chat em tempo real com backend em Express + WebSocket e client em React + TypeSc
 <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
 
----
-
-### 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SamuelVendrame&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2563eb&icon_color=2563eb&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelVendrame&layout=compact&hide_border=true&bg_color=0d1117&title_color=2563eb&text_color=c9d1d9&langs_count=6" alt="Top languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelVendrame&bg_color=0d1117&color=c9d1d9&line=2563eb&point=60a5fa&area=true&area_color=2563eb&hide_border=true" width="100%" alt="Activity graph" />
-
-</div>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" />
