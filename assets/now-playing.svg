@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="180" viewBox="0 0 760 180" role="img" aria-label="Now playing: Xtal by Aphex Twin">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#111c33"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#2563eb"/><stop offset="1" stop-color="#93c5fd"/></linearGradient>
+<linearGradient id="prog" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2563eb"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+<radialGradient id="shine" cx="0.35" cy="0.3" r="0.8"><stop offset="0" stop-color="#ffffff" stop-opacity="0.10"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#2563eb" stop-opacity="0.22"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/></radialGradient>
+<clipPath id="card"><rect width="760" height="180" rx="16"/></clipPath>
+</defs>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+</style>
+<g clip-path="url(#card)">
+<rect width="760" height="180" fill="url(#bg)"/>
+<circle cx="90" cy="90" r="150" fill="url(#glow)"/>
+</g>
+<rect x="0.5" y="0.5" width="759" height="179" rx="16" fill="none" stroke="#2563eb" stroke-opacity="0.35"/>
+<g><animateTransform attributeName="transform" type="rotate" from="0 90 90" to="360 90 90" dur="3.2s" repeatCount="indefinite"/>
+<circle cx="90" cy="90" r="62" fill="#05070c"/>
+<circle cx="90" cy="90" r="58" fill="none" stroke="#1f2937" stroke-width="1"/>
+<circle cx="90" cy="90" r="53" fill="none" stroke="#1f2937" stroke-width="1"/>
+<circle cx="90" cy="90" r="48" fill="none" stroke="#1f2937" stroke-width="1"/>
+<circle cx="90" cy="90" r="43" fill="none" stroke="#1f2937" stroke-width="1"/>
+<circle cx="90" cy="90" r="38" fill="none" stroke="#1f2937" stroke-width="1"/>
+<circle cx="90" cy="90" r="33" fill="none" stroke="#1f2937" stroke-width="1"/>
+<circle cx="90" cy="90" r="28" fill="none" stroke="#1f2937" stroke-width="1"/>
+<circle cx="90" cy="90" r="21" fill="#2563eb"/>
+<path d="M90 69 A21 21 0 0 1 111 90" stroke="#93c5fd" stroke-width="3" fill="none" opacity="0.8"/>
+<circle cx="90" cy="90" r="3.5" fill="#0b1220"/>
+</g>
+<circle cx="90" cy="90" r="62" fill="url(#shine)"/>
+<circle cx="184" cy="42" r="4" fill="#22c55e"><animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="196" y="46" class="mono" font-size="12" letter-spacing="2.5" fill="#93c5fd">NOW PLAYING</text>
+<text x="180" y="86" font-size="32" font-weight="700" fill="#f8fafc">Xtal</text>
+<text x="180" y="112" font-size="15" fill="#94a3b8">Aphex Twin  ·  Selected Ambient Works 85–92</text>
+<rect x="180" y="140" width="330" height="4" rx="2" fill="#1e293b"/>
+<rect x="180" y="140" width="0" height="4" rx="2" fill="url(#prog)"><animate attributeName="width" values="0;330" dur="45s" repeatCount="indefinite"/></rect>
+<circle cx="180" cy="142" r="5" fill="#f8fafc"><animate attributeName="cx" values="180;510" dur="45s" repeatCount="indefinite"/></circle>
+<text x="180" y="164" class="mono" font-size="11" fill="#64748b">0:00</text>
+<text x="510" y="164" class="mono" font-size="11" fill="#64748b" text-anchor="end">4:51</text>
+<rect x="560" y="99" width="8" height="51" rx="3" fill="url(#bar)"><animate attributeName="height" values="51;29;60;93;16;19;51" dur="1.47s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/><animate attributeName="y" values="99;121;90;57;134;131;99" dur="1.47s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/></rect>
+<rect x="573" y="128" width="8" height="22" rx="3" fill="url(#bar)"><animate attributeName="height" values="22;56;84;17;74;37;22" dur="0.93s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/><animate attributeName="y" values="128;94;66;133;76;113;128" dur="0.93s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/></rect>
+<rect x="586" y="85" width="8" height="65" rx="3" fill="url(#bar)"><animate attributeName="height" values="65;63;18;40;21;80;65" dur="1.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/><animate attributeName="y" values="85;87;132;110;129;70;85" dur="1.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/></rect>
+<rect x="599" y="68" width="8" height="82" rx="3" fill="url(#bar)"><animate attributeName="height" values="82;25;38;90;90;84;82" dur="1.56s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/><animate attributeName="y" values="68;125;112;60;60;66;68" dur="1.56s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/></rect>
+<rect x="612" y="67" width="8" height="83" rx="3" fill="url(#bar)"><animate attributeName="height" values="83;84;60;16;38;15;83" dur="1.29s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/><animate attributeName="y" values="67;66;90;134;112;135;67" dur="1.29s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/></rect>
+<rect x="625" y="123" width="8" height="27" rx="3" fill="url(#bar)"><animate attributeName="height" values="27;47;63;28;79;25;27" dur="1.3s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/><animate attributeName="y" values="123;103;87;122;71;125;123" dur="1.3s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/></rect>
+<rect x="638" y="69" width="8" height="81" rx="3" fill="url(#bar)"><animate attributeName="height" values="81;97;33;23;84;83;81" dur="1.35s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/><animate attributeName="y" values="69;53;117;127;66;67;69" dur="1.35s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/></rect>
+<rect x="651" y="93" width="8" height="57" rx="3" fill="url(#bar)"><animate attributeName="height" values="57;22;80;18;82;17;57" dur="1.33s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/><animate attributeName="y" values="93;128;70;132;68;133;93" dur="1.33s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/></rect>
+<rect x="664" y="77" width="8" height="73" rx="3" fill="url(#bar)"><animate attributeName="height" values="73;97;78;64;50;69;73" dur="1.31s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/><animate attributeName="y" values="77;53;72;86;100;81;77" dur="1.31s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/></rect>
+<rect x="677" y="82" width="8" height="68" rx="3" fill="url(#bar)"><animate attributeName="height" values="68;56;48;41;33;99;68" dur="1.45s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/><animate attributeName="y" values="82;94;102;109;117;51;82" dur="1.45s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/></rect>
+<rect x="690" y="130" width="8" height="20" rx="3" fill="url(#bar)"><animate attributeName="height" values="20;83;48;77;73;53;20" dur="1.41s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/><animate attributeName="y" values="130;67;102;73;77;97;130" dur="1.41s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/></rect>
+<rect x="703" y="104" width="8" height="46" rx="3" fill="url(#bar)"><animate attributeName="height" values="46;87;19;25;75;63;46" dur="1.02s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/><animate attributeName="y" values="104;63;131;125;75;87;104" dur="1.02s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/></rect>
+<rect x="716" y="97" width="8" height="53" rx="3" fill="url(#bar)"><animate attributeName="height" values="53;29;72;63;15;95;53" dur="0.95s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/><animate attributeName="y" values="97;121;78;87;135;55;97" dur="0.95s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/></rect>
+<rect x="729" y="69" width="8" height="81" rx="3" fill="url(#bar)"><animate attributeName="height" values="81;83;50;53;98;54;81" dur="1.32s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/><animate attributeName="y" values="69;67;100;97;52;96;69" dur="1.32s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1;0.4 0 0.6 1"/></rect>
+<rect x="558" y="154" width="181" height="2" rx="1" fill="#1e293b"/>
+</svg>

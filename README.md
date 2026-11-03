@@ -19,6 +19,8 @@
 
 ### 👋 About me
 
+Hey there! I'm Samuel, a 19-year-old full stack developer from Paraná, Brazil. I like working across the whole stack — from database queries to the details of a UI — and I'm always looking for ways to ship cleaner, more reliable software. Lately that means bringing AI into my workflow and figuring out where it actually helps.
+
 - 💼 **Full Stack Developer** at **Livreria – Magna Opera** (remote)
 - 🏛️ Previously a full stack intern at the **São Manoel do Paraná City Hall**, where I built the municipal cemetery records system and the **AVALIE** platform (.gov.br)
 - 🎓 Studying **Systems Analysis and Development** at UMFG (graduating 2027)
@@ -30,7 +32,14 @@
 
 - 🤖 Getting better at using AI in my dev workflow
 - 🇫🇷 Learning French
-- 🎧 On repeat: **Xtal** — Aphex Twin
+
+---
+
+### 🎧 Now playing
+
+<div align="center">
+<a href="https://open.spotify.com/search/Xtal%20Aphex%20Twin"><img src="./assets/now-playing.svg" width="100%" alt="Now playing: Xtal — Aphex Twin" /></a>
+</div>
 
 ---
 
