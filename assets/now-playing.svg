@@ -33,7 +33,7 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Ar
 <circle cx="184" cy="42" r="4" fill="#22c55e"><animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
 <text x="196" y="46" class="mono" font-size="12" letter-spacing="2.5" fill="#93c5fd">NOW PLAYING</text>
 <text x="180" y="86" font-size="32" font-weight="700" fill="#f8fafc">Xtal</text>
-<text x="180" y="112" font-size="15" fill="#94a3b8">Aphex Twin  ·  Selected Ambient Works 85–92</text>
+<text x="180" y="112" font-size="15" fill="#94a3b8">Aphex Twin  ·  Selected Ambient Works 85-92</text>
 <rect x="180" y="140" width="330" height="4" rx="2" fill="#1e293b"/>
 <rect x="180" y="140" width="0" height="4" rx="2" fill="url(#prog)"><animate attributeName="width" values="0;330" dur="45s" repeatCount="indefinite"/></rect>
 <circle cx="180" cy="142" r="5" fill="#f8fafc"><animate attributeName="cx" values="180;510" dur="45s" repeatCount="indefinite"/></circle>

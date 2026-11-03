@@ -2,7 +2,7 @@
 
 <sub>🇧🇷 Português · <a href="./README.md">🇺🇸 English</a></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Samuel%20Vendrame&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Samuel Vendrame — Full Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Samuel%20Vendrame&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Samuel Vendrame, Full Stack Developer" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=520&lines=Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;Full+Stack+Developer;Desenvolvimento+assistido+por+IA+(spec-driven)" alt="Typing SVG" />
@@ -19,9 +19,9 @@
 
 ### 👋 Sobre mim
 
-Oi! Sou o Samuel, dev full stack de 19 anos do Paraná. Gosto de trabalhar em todas as camadas — das queries no banco aos detalhes de uma interface — e estou sempre buscando jeitos de entregar software mais limpo e confiável. Ultimamente isso passa por trazer IA pro meu fluxo de trabalho e descobrir onde ela realmente ajuda.
+Oi! Sou o Samuel, dev full stack de 20 anos do Paraná. Gosto de trabalhar em todas as camadas, das queries no banco aos detalhes de uma interface, e estou sempre buscando jeitos de entregar software mais limpo e confiável. Ultimamente isso passa por trazer IA pro meu fluxo de trabalho e descobrir onde ela realmente ajuda.
 
-- 💼 **Full Stack Developer** na **Livreria – Magna Opera** (remoto)
+- 💼 **Full Stack Developer** na **Livreria - Magna Opera** (remoto)
 - 🏛️ Antes disso, estagiário full stack na **Prefeitura de São Manoel do Paraná**, onde construí o sistema de registros do cemitério municipal e a plataforma **AVALIE** (.gov.br)
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na UMFG (previsão: 2027)
 - 🌎 Português (nativo) · Inglês (C1) · Francês (A2)
@@ -38,7 +38,7 @@ Oi! Sou o Samuel, dev full stack de 19 anos do Paraná. Gosto de trabalhar em to
 ### 🎧 Tocando agora
 
 <div align="center">
-<a href="https://open.spotify.com/search/Xtal%20Aphex%20Twin"><img src="./assets/now-playing.svg" width="100%" alt="Tocando agora: Xtal — Aphex Twin" /></a>
+<a href="https://open.spotify.com/search/Xtal%20Aphex%20Twin"><img src="./assets/now-playing.svg" width="100%" alt="Tocando agora: Xtal, de Aphex Twin" /></a>
 </div>
 
 ---
