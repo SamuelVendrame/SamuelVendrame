@@ -11,7 +11,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/samuelvendrame/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/SamuelVendrame/SamuelVendrame/blob/main/assets/Curriculo_SamuelVendrame.pdf"><img src="https://img.shields.io/badge/Resume%20(PT--BR)-2563eb?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
+<a href="https://github.com/SamuelVendrame/SamuelVendrame/raw/main/assets/Curriculo_SamuelVendrame.pdf"><img src="https://img.shields.io/badge/Resume%20(PT--BR)-2563eb?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
 <img src="https://img.shields.io/badge/Paran%C3%A1%2C%20Brazil-1e293b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Paraná, Brazil" />
 
 </div>
