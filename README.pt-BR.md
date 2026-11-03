@@ -39,7 +39,7 @@ Oi! Sou o Samuel, dev full stack de 20 anos do Paraná. Gosto de trabalhar em to
 ### 🎧 Tocando agora
 
 <div align="center">
-<a href="https://open.spotify.com/search/Xtal%20Aphex%20Twin"><img src="./assets/now-playing.svg" width="100%" alt="Tocando agora: Xtal, de Aphex Twin" /></a>
+<a href="https://open.spotify.com/search/Pulsewidth%20Aphex%20Twin"><img src="./assets/now-playing.svg" width="100%" alt="Tocando agora: Pulsewidth, de Aphex Twin" /></a>
 </div>
 
 ---

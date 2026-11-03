@@ -39,7 +39,7 @@ Hey there! I'm Samuel, a 20-year-old full stack developer from Paraná, Brazil. 
 ### 🎧 Now playing
 
 <div align="center">
-<a href="https://open.spotify.com/search/Xtal%20Aphex%20Twin"><img src="./assets/now-playing.svg" width="100%" alt="Now playing: Xtal by Aphex Twin" /></a>
+<a href="https://open.spotify.com/search/Pulsewidth%20Aphex%20Twin"><img src="./assets/now-playing.svg" width="100%" alt="Now playing: Pulsewidth by Aphex Twin" /></a>
 </div>
 
 ---
