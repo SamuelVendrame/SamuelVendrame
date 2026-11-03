@@ -1,6 +1,6 @@
 <div align="center">
 
-<sub>🇧🇷 Português · <a href="./README.md">🇺🇸 English</a></sub>
+<sub>🇧🇷 Português · <a href="https://github.com/SamuelVendrame/SamuelVendrame/blob/main/README.md">🇺🇸 English</a></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Samuel%20Vendrame&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Samuel Vendrame, Full Stack Developer" />
 
@@ -11,6 +11,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/samuelvendrame/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/SamuelVendrame/SamuelVendrame/blob/main/assets/Curriculo_SamuelVendrame.pdf"><img src="https://img.shields.io/badge/Curr%C3%ADculo-2563eb?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Currículo" /></a>
 <img src="https://img.shields.io/badge/Paran%C3%A1%2C%20Brasil-1e293b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Paraná, Brasil" />
 
 </div>
