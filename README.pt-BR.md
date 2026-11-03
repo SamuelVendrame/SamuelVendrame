@@ -64,7 +64,16 @@ Oi! Sou o Samuel, dev full stack de 20 anos do Paraná. Gosto de trabalhar em to
 
 ---
 
-### 🚀 Projeto em destaque
+### 🚀 Projetos em destaque
+
+#### 🗓️ [Grade Fácil](https://github.com/SamuelVendrame/grade-facil) · [ver online](https://samuelvendrame.github.io/grade-facil/)
+
+Organize as matérias do curso num kanban e gere automaticamente todas as grades horárias sem choque de horário, ranqueadas por menos dias na faculdade e menos janelas. Exporta em PDF.
+
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
 
 #### 💬 [Chat Web](https://github.com/SamuelVendrame/projeto-webchat)
 

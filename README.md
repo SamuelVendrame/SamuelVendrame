@@ -64,7 +64,16 @@ Hey there! I'm Samuel, a 20-year-old full stack developer from Paraná, Brazil. 
 
 ---
 
-### 🚀 Featured project
+### 🚀 Featured projects
+
+#### 🗓️ [Grade Fácil](https://github.com/SamuelVendrame/grade-facil) · [live demo](https://samuelvendrame.github.io/grade-facil/)
+
+Plan your college courses on a kanban board and automatically generate every class schedule with no time conflicts, ranked by fewest days on campus and fewest gaps. Exports to PDF.
+
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
 
 #### 💬 [Chat Web](https://github.com/SamuelVendrame/projeto-webchat)
 
