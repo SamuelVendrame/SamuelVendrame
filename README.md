@@ -54,7 +54,7 @@ Hey there! I'm Samuel, a 20-year-old full stack developer from Paraná, Brazil. 
 
 **Back-end & data**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,laravel" alt="Back-end" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,laravel" alt="Back-end" />
 
 **Tools**
 <br/>

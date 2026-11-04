@@ -54,7 +54,7 @@ Oi! Sou o Samuel, dev full stack de 20 anos do Paraná. Gosto de trabalhar em to
 
 **Back-end & dados**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,laravel" alt="Back-end" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,laravel" alt="Back-end" />
 
 **Ferramentas**
 <br/>
