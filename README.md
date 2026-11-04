@@ -50,15 +50,15 @@ Hey there! I'm Samuel, a 20-year-old full stack developer from Paraná, Brazil. 
 
 **Front-end**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css" alt="Front-end" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,ts,js,tailwind,vite,html,css" alt="Front-end" />
 
 **Back-end & data**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,laravel" alt="Back-end" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,supabase,laravel" alt="Back-end" />
 
 **Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,sentry" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,cloudflare,linux,vscode,sentry" alt="Tools" />
 
 </div>
 

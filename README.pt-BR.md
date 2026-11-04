@@ -50,15 +50,15 @@ Oi! Sou o Samuel, dev full stack de 20 anos do Paraná. Gosto de trabalhar em to
 
 **Front-end**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css" alt="Front-end" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,ts,js,tailwind,vite,html,css" alt="Front-end" />
 
 **Back-end & dados**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,laravel" alt="Back-end" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,supabase,laravel" alt="Back-end" />
 
 **Ferramentas**
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,sentry" alt="Ferramentas" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,cloudflare,linux,vscode,sentry" alt="Ferramentas" />
 
 </div>
 
