@@ -76,6 +76,34 @@ Oi! Sou o Samuel, dev full stack de 20 anos do Paraná. Gosto de trabalhar em to
 
 ---
 
+### 🤖 IA
+
+Uso IA tanto no jeito que desenvolvo quanto dentro dos produtos que entrego.
+
+**No meu fluxo de trabalho**
+
+- 🧭 **Desenvolvimento orientado a especificação** com GSD: primeiro a spec, depois a execução, depois a verificação
+- ✅ **Agente de verificação** que eu montei para checar cada tarefa contra o escopo e as regras de negócio (com análise de segurança opcional) e gerar roteiros de teste manual antes de subir
+- 🎨 **Prototipação de telas** com Claude Artifacts, validadas com a gestão antes do código
+- ⚙️ **Fluxos de automação** em n8n integrados ao ERP da empresa
+
+**Nos produtos**
+
+- 🏛️ **AVALIE** · pipeline em duas camadas com a API da Groq: moderação de comentários em tempo real e resumos com análise de sentimento em lote
+- 🧠 **Revisa AI** · gera alternativas de múltipla escolha e corrige respostas abertas com nota de 0 a 10, com provedor de IA plugável e uma versão falsa para rodar os testes sem chave de API
+- 📚 **Gerador de capas de livro** · agente que cria a arte, revisa o próprio resultado e tenta de novo com o prompt corrigido, até 3 vezes
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq" />
+<img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge" alt="OpenRouter" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+
+</div>
+
+---
+
 ### 🚀 Projetos em destaque
 
 #### 🧠 Revisa AI · código privado

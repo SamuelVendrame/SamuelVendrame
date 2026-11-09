@@ -76,6 +76,34 @@ Hey there! I'm Samuel, a 20-year-old full stack developer from Paraná, Brazil. 
 
 ---
 
+### 🤖 AI
+
+I use AI both in how I build software and inside the products I ship.
+
+**In my workflow**
+
+- 🧭 **Spec-driven development** with GSD: the spec comes first, then execution, then verification
+- ✅ **Verification agent** I built that checks each task against its scope and business rules (with an optional security pass) and writes manual test scripts before anything ships
+- 🎨 **Screen prototyping** with Claude Artifacts, validated with management before coding
+- ⚙️ **Automation flows** in n8n integrated with the company ERP
+
+**In products**
+
+- 🏛️ **AVALIE** · two-layer pipeline on the Groq API: real-time comment moderation and batch summaries with sentiment analysis
+- 🧠 **Revisa AI** · generates multiple-choice options and grades open answers from 0 to 10, with a pluggable AI provider and a fake one so tests run without an API key
+- 📚 **Book cover generator** · an agent that creates the art, reviews its own result and retries with a corrected prompt up to 3 times
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq" />
+<img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge" alt="OpenRouter" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+
+</div>
+
+---
+
 ### 🚀 Featured projects
 
 #### 🧠 Revisa AI · private code
