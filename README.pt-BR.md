@@ -61,15 +61,42 @@ Oi! Sou o Samuel, dev full stack de 20 anos do Paraná. Gosto de trabalhar em to
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,postgres,mysql,supabase,laravel" alt="Back-end" />
 
+**Testes**
+<br/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+<img src="https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+
 **Ferramentas**
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,cloudflare,linux,vscode,sentry" alt="Ferramentas" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,cloudflare,githubactions,linux,vscode,sentry" alt="Ferramentas" />
 
 </div>
 
 ---
 
 ### 🚀 Projetos em destaque
+
+#### 🧠 Revisa AI · código privado
+
+Transforma slides e PDFs em flashcards e corrige suas respostas com IA: múltipla escolha com alternativas geradas pela IA, ou modo prova com nota de 0 a 10 e o que faltou. Repetição espaçada (SM-2), mapa de calor de estudo e exportação em PDF. Monorepo com API em NestJS, web em Next.js e app em Expo.
+
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
+#### 🛒 [Kurio](https://github.com/SamuelVendrame/teste-tecnico-jungle) · [ver online](https://teste-tecnico-jungle.vercel.app)
+
+Marketplace de NFTs completo feito como teste técnico: catálogo, carrinho, checkout, conta do colecionador e atualizações em tempo real. API REST e Socket.IO simulados no navegador com MSW em 12 cenários (rede lenta, sessão expirada, pagamento recusado, preço mudando no meio do checkout), pedido idempotente e testes E2E + regressão visual com Playwright no CI.
+
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/MSW-FF6A33?style=flat-square&logo=mockserviceworker&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
 
 #### 🗓️ [Grade Fácil](https://github.com/SamuelVendrame/grade-facil) · [ver online](https://samuelvendrame.github.io/grade-facil/)
 
