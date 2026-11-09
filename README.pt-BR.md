@@ -98,7 +98,7 @@ Marketplace de NFTs completo feito como teste técnico: catálogo, carrinho, che
 <img src="https://img.shields.io/badge/MSW-FF6A33?style=flat-square&logo=mockserviceworker&logoColor=white" />
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
 
-#### 🗓️ [Grade Fácil](https://github.com/SamuelVendrame/grade-facil) · [ver online](https://samuelvendrame.github.io/grade-facil/)
+#### 🗓️ [Grade Fácil](https://github.com/SamuelVendrame/grade-facil) · open source · [ver online](https://samuelvendrame.github.io/grade-facil/)
 
 Organize as matérias do curso num kanban e gere automaticamente todas as grades horárias sem choque de horário, ranqueadas por menos dias na faculdade e menos janelas. Exporta em PDF.
 
@@ -107,7 +107,7 @@ Organize as matérias do curso num kanban e gere automaticamente todas as grades
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
 
-#### 💬 [Chat Web](https://github.com/SamuelVendrame/projeto-webchat)
+#### 💬 [Chat Web](https://github.com/SamuelVendrame/projeto-webchat) · open source
 
 Chat em tempo real com backend em Express + WebSocket e client em React + TypeScript + Tailwind, servidos por um único servidor em produção.
 

@@ -98,7 +98,7 @@ Full NFT marketplace built as a technical test: catalog, cart, checkout, collect
 <img src="https://img.shields.io/badge/MSW-FF6A33?style=flat-square&logo=mockserviceworker&logoColor=white" />
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
 
-#### 🗓️ [Grade Fácil](https://github.com/SamuelVendrame/grade-facil) · [live demo](https://samuelvendrame.github.io/grade-facil/)
+#### 🗓️ [Grade Fácil](https://github.com/SamuelVendrame/grade-facil) · open source · [live demo](https://samuelvendrame.github.io/grade-facil/)
 
 Plan your college courses on a kanban board and automatically generate every class schedule with no time conflicts, ranked by fewest days on campus and fewest gaps. Exports to PDF.
 
@@ -107,7 +107,7 @@ Plan your college courses on a kanban board and automatically generate every cla
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
 
-#### 💬 [Chat Web](https://github.com/SamuelVendrame/projeto-webchat)
+#### 💬 [Chat Web](https://github.com/SamuelVendrame/projeto-webchat) · open source
 
 Real-time chat with an Express + WebSocket backend and a React + TypeScript + Tailwind client, served from a single server in production.
 
