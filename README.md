@@ -52,9 +52,14 @@ Hey there! I'm Samuel, a 20-year-old full stack developer from Paraná, Brazil. 
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,ts,js,tailwind,vite,html,css" alt="Front-end" />
 
+**Mobile**
+<br/>
+<img src="https://img.shields.io/badge/React%20Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+
 **Back-end & data**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,supabase,laravel" alt="Back-end" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,postgres,mysql,supabase,laravel" alt="Back-end" />
 
 **Tools**
 <br/>
